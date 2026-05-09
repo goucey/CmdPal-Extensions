@@ -1,7 +1,7 @@
 {
   "$schema": "../../../.github/schemas/extension.schema.json",
   "id": "goucey.everythingextension",
-  "title": "EverythingExt for Command Palette",
+  "title": "EverythingExt",
   "shortDescription": "Everything seach extension.",
   "description": "An extension that enables Everything search in the Command Palette. Everything is a fast file search tool that helps users efficiently look up files and folders on your computer.",
   "author": {
